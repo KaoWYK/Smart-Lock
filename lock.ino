@@ -1,5 +1,5 @@
 //update 3/28 01:16  GT
-//update 3/31 09:10  GT
+//update 3/31 11:21  GT
 
 #include "stepper.h"
 #include<SoftwareSerial.h>
@@ -105,6 +105,7 @@ void lock(){
 void unlock(){
    stp.rotate(-steps);
    stp.stop();
+   previous_time = millis();
    lock_state = false;
    buzzer_state = false;
    Serial.println("unlock");
