@@ -18,15 +18,15 @@ B07901168 黃善莛
 3. 晚上電路學實驗大家都亂停找不到車? 有蜂鳴器和LED怎麼可能還找不到～～
 
 ## Functions
-1. RFID:
+1. RFID
     * 利用手機藍芽設定一張悠遊卡為key card
     * 刷卡後開鎖、閉鎖
-2. BlueTooth:
+2. BlueTooth
     * 開/關鎖 
     * 開/關LED燈 
     * 開/關蜂鳴器 
     * 設定key card
-3. LED:
+3. LED
     * 當車燈
 
 ## Materials
