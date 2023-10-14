@@ -2,10 +2,10 @@
 A bicycle lock for laziness 
 
 ## Members
-B07901023 高偉堯
-B07901036 陳俊廷
-B07901095 吳宜庭
-B07901168 黃善莛
+高偉堯 ([KaoWYK](https://github.com/KaoWYK))
+陳俊廷 ([Jim-CTChen](https://github.com/Jim-CTChen))
+吳宜庭 ([yitingwu31](https://github.com/yitingwu31))
+黃善莛
 
 ## Description
 有時候可能因為下雨而一手撐傘，或是剛買完活大的麥當勞飲料而只有一手可以使用，此時要開腳踏車的鎖就不太方便。所以我們想做一個可以單手開啟的腳踏車鎖。
