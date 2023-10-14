@@ -2,9 +2,9 @@
 A bicycle lock for laziness 
 
 ## Members
-高偉堯 (![KaoWYK](https://github.com/KaoWYK))
-陳俊廷 (![Jim-CTChen](https://github.com/Jim-CTChen))
-吳宜庭 (![yitingwu31])(https://github.com/yitingwu31))
+高偉堯 ([KaoWYK](https://github.com/KaoWYK))
+陳俊廷 ([Jim-CTChen](https://github.com/Jim-CTChen))
+吳宜庭 ([yitingwu31](https://github.com/yitingwu31))
 黃善莛
 
 ## Description
